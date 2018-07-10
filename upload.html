@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload File using Jquery Form by IQ TECH</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="col-md-12 text-center">
+            <div class="jumbotron">
+                <h1 class="display-4">Upload Center</h1>
+               <form id="UploadForm" action="upload.php" method="post" enctype="multipart/form-data">
+                   <div class="form-group">
+                       <input type="text" name="title" id="title" class="form-control" placeholder="put any name here" />
+                   </div>
+                   <!-- /.form-group -->
+                   <div class="form-group">
+                       <input type="file" name="file" id="file" class="form-control" />
+                   </div>
+                   <!-- /.form-group -->
+                   <div class="form-group">
+                       <button name="UploadBtn" id="UploadBtn" class="btn btn-primary btn-block">Upload</button>
+                   </div>
+                   <!-- /.form-group -->
+               </form>
+                <hr class="w-50">
+
+                <div id="progressbox" class="progress">
+                    <div id="progressbar" class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"><div id="statustxt">0%</div> </div>
+                </div>
+                <div id="output"></div>
+            </div>
+        </div>
+        <!-- /.col-md-12 -->
+    </div>
+    <!-- /.container -->
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.form.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
