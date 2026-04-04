@@ -1,0 +1,34 @@
+site_name: Livewire-hwkUI
+site_url: https://hawkiq.github.io/hwkui-docs/
+repo_url: https://github.com/hawkiq/livewire-hwkUI
+repo_name: hawkiq/livewire-hwkUI
+theme:
+  name: material
+  features:
+    - content.code.copy
+    - navigation.footer
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+   
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Configuration: configuration.md
+  - Usage: usage.md
+  - Widgets: widgets.md
+  - Customization: customization.md
+  - License: license.md
+  - Author: author.md
+extra_css:
+  - assets/hwkui.css
