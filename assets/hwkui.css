@@ -1,0 +1,7 @@
+.md-header {
+    backdrop-filter: blur(8px);
+}
+
+.md-typeset h1 {
+    font-weight: 700;
+}
