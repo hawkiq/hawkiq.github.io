@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://hawkiq.github.io/hwkui-docs/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <loc>https://hawkiq.github.io/</loc>
+         <lastmod>2026-04-18</lastmod>
     </url>
     <url>
-         <loc>https://hawkiq.github.io/hwkui-docs/author/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <loc>https://hawkiq.github.io/about/</loc>
+         <lastmod>2026-04-18</lastmod>
     </url>
     <url>
-         <loc>https://hawkiq.github.io/hwkui-docs/configuration/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <loc>https://hawkiq.github.io/achievements/</loc>
+         <lastmod>2026-04-18</lastmod>
     </url>
     <url>
-         <loc>https://hawkiq.github.io/hwkui-docs/customization/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <loc>https://hawkiq.github.io/contact/</loc>
+         <lastmod>2026-04-18</lastmod>
     </url>
     <url>
-         <loc>https://hawkiq.github.io/hwkui-docs/installation/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <loc>https://hawkiq.github.io/projects/</loc>
+         <lastmod>2026-04-18</lastmod>
     </url>
     <url>
-         <loc>https://hawkiq.github.io/hwkui-docs/license/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <loc>https://hawkiq.github.io/skills/</loc>
+         <lastmod>2026-04-18</lastmod>
     </url>
     <url>
-         <loc>https://hawkiq.github.io/hwkui-docs/usage/</loc>
-         <lastmod>2026-04-11</lastmod>
-    </url>
-    <url>
-         <loc>https://hawkiq.github.io/hwkui-docs/widgets/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <loc>https://hawkiq.github.io/testimonials/</loc>
+         <lastmod>2026-04-18</lastmod>
     </url>
 </urlset>
