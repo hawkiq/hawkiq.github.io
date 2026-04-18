@@ -1,34 +1,54 @@
-site_name: Livewire-hwkUI
-site_url: https://hawkiq.github.io/hwkui-docs/
-repo_url: https://github.com/hawkiq/livewire-hwkUI
-repo_name: hawkiq/livewire-hwkUI
+site_name: OsaMa Github Pages
+site_url: https://hawkiq.github.io/
 theme:
   name: material
-  features:
-    - content.code.copy
-    - navigation.footer
+  icon:
+    logo: material/face
+  logo: assets/logo.png
+  favicon: assets/logo.png  
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-   
+  - scheme: default
+    primary: blue
+    accent: red
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - scheme: slate
+    primary: yellow
+    accent: deep orange
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+  features:
+  - content.code.copy
+  - navigation.footer
 nav:
   - Home: index.md
-  - Installation: installation.md
-  - Configuration: configuration.md
-  - Usage: usage.md
-  - Widgets: widgets.md
-  - Customization: customization.md
-  - License: license.md
-  - Author: author.md
-extra_css:
-  - assets/hwkui.css
+  - About: about.md
+  - Skills: skills.md
+  - Projects: projects.md
+  - Achievements: achievements.md
+  - Testimonials: testimonials.md
+  - Contact: contact.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: "https://github.com/hawkiq"
+    - icon: fontawesome/brands/linkedin
+      link: "https://www.linkedin.com/in/osamahhasan"
+    - icon: fontawesome/brands/facebook
+      link: "https://www.facebook.com/hawkiq.gag"
+    - icon: fontawesome/brands/instagram
+      link: "https://www.instagram.com/hawkiq/"
+    - icon: fontawesome/solid/globe
+      link: "https://osama.app/"
+copyright: "Copyright © 2013-2026 Osama Hasan. All rights reserved."

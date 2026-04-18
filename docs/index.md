@@ -1,17 +1,18 @@
-# hwkUI
+<div align="center">
+<img src="https://i.imgur.com/IJMa6nkl.jpg" width="300" height="300" alt="hawkiq">
+</div>
 
-![hwkUI Banner](assets/banner.png)
+# Hi there 👋
 
-[![Packagist](https://img.shields.io/packagist/v/hawkiq/hwkui.svg)](https://packagist.org/packages/hawkiq/hwkui)
+Welcome to my personal documentation page.
 
-**hwkUI** is a Laravel package providing ready-to-use UI widgets built on top of **Livewire 3**, designed for simplicity and flexibility. It includes dynamic Select2, Datetimepicker and Rich Text Editor components with easy-to-use components like cards and info boxes.
+I am **Osama Hasan**, a software engineer and web developer passionate about building modern web applications and sharing knowledge with others.
 
-## 📑 Table of Contents
+Use the navigation menu to learn more about:
 
-- [Installation](installation.md)
-- [Configuration](configuration.md)
-- [Usage](usage.md)
-- [Widgets](widgets.md)
-- [Customization](customization.md)
-- [License](license.md)
-- [Author](author.md)
+- 👯 About Me
+- ⚡ Skills & Technologies
+- 🔭 Projects
+- 😄 Achievements
+- 💬 Testimonials
+- 📫 Contact
